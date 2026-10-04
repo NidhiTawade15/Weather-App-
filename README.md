@@ -1,1 +1,1 @@
-# Weather-App-
+Developed a responsive weather application using HTML, CSS, and JavaScript. Integrated a weather API to display real-time temperature, humidity, wind speed, and weather descriptions for different cities. Implemented a location-based weather feature and a city search option using HTML, CSS, JavaScript, API Integration, Responsive Web Design
